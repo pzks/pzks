@@ -24,7 +24,7 @@ _________________
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=pzks&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></div>
 <hr>
 <div align="center">Welcome to follow my Bilibili account😄</div>
-<div align="center">Welcome to follow my Bilibili account😄<img src="https://stats.justsong.cn/api/bilibili/?id=1289666062" /></div>
+<div align="center"><img src="https://stats.justsong.cn/api/bilibili/?id=1289666062" /></div>
 
 <!--
 **pzks/pzks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
