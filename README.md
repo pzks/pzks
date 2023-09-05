@@ -14,7 +14,7 @@ I don't often update blogs✨, on the contrary, I am very active on social media
 <hr>
 <div align="center"><h2>Welcome to follow my Bilibili account😄</h2></div>
 <div align="center"><img src="https://stats.justsong.cn/api/bilibili/?id=1289666062" /></div>
-_________________
+<hr>
 我来自海南大学，是一名来自中国的大学生🌱
 
 🔭对我来说，这其实很普通。我的大多数项目都在Gitee而不是Github上，但我仍然同步我的Github帐户
