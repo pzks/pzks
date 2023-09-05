@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 > 念念不忘，必有回响
 
-I come from Hainan University, a University student from China🌱
+## I come from Hainan University, a University student from China🌱
 
 🔭Regarding me, it's actually quite ordinary. Most of my projects are on Gitee instead of Github, but I still synchronize my Github account
 
@@ -11,6 +11,17 @@ Like to toss and turn various technologies, CEO of He Le Mapping, welcome to fol
 
 I don't often update blogs✨, on the contrary, I am very active on social media platforms🤔
 _________________
+我来自海南大学，是一名来自中国的大学生🌱
+
+🔭对我来说，这其实很普通。我的大多数项目都在Gitee而不是Github上，但我仍然同步我的Github帐户
+
+我是一个计算机开发的开源爱好者，📫 喜欢电脑、网络技术的一切，同时也是绘画和艺术的爱好者。哈哈⚡
+
+我不经常更新博客✨, 相反，我在社交媒体平台上非常活跃🤔
+
+喜欢折腾各种技术，何乐地图CEO，欢迎关注我✨, 就这样，谢谢
+
+
 <!--
 **pzks/pzks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
