@@ -7,7 +7,7 @@
 
 I am an open-source enthusiast in computer development,📫 enjoying everything about computers, web technology, and also a fan of painting and art. Haha⚡
 
-Like to toss and turn various technologies, CEO of He Le Mapping, welcome to follow me✨, that's it. Thank you
+Like to toss and turn various technologies, CEO of HeloFrp, welcome to follow me✨, that's it. Thank you
 
 I don't often update blogs✨, on the contrary, I am very active on social media platforms🤔
 _________________
@@ -19,7 +19,7 @@ _________________
 
 我不经常更新博客✨, 相反，我在社交媒体平台上非常活跃🤔
 
-喜欢折腾各种技术，何乐地图CEO，欢迎关注我✨, 就这样，谢谢
+喜欢折腾各种技术，何乐映射CEO，欢迎关注我✨, 就这样，谢谢
 
 
 <!--
