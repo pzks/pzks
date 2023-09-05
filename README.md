@@ -10,6 +10,10 @@ I am an open-source enthusiast in computer development,📫 enjoying everything 
 Like to toss and turn various technologies, CEO of HeloFrp, welcome to follow me✨, that's it. Thank you
 
 I don't often update blogs✨, on the contrary, I am very active on social media platforms🤔
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=pzks&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></div>
+<hr>
+<div align="center"><h2>Welcome to follow my Bilibili account😄</h2></div>
+<div align="center"><img src="https://stats.justsong.cn/api/bilibili/?id=1289666062" /></div>
 _________________
 我来自海南大学，是一名来自中国的大学生🌱
 
@@ -21,10 +25,7 @@ _________________
 
 喜欢折腾各种技术，何乐映射CEO，欢迎关注我✨, 就这样，谢谢
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=pzks&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></div>
-<hr>
-<div align="center"><h2>Welcome to follow my Bilibili account😄</h2></div>
-<div align="center"><img src="https://stats.justsong.cn/api/bilibili/?id=1289666062" /></div>
+
 
 <!--
 **pzks/pzks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
