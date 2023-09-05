@@ -21,7 +21,9 @@ _________________
 
 喜欢折腾各种技术，何乐映射CEO，欢迎关注我✨, 就这样，谢谢
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=pzks&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />![pzks's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pzks&layout=compact&hide_border=true&langs_count=10)</div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=pzks&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></div>
+
+![pzks's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pzks&layout=compact&hide_border=true&langs_count=10)
 <!--
 **pzks/pzks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
